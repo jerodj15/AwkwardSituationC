@@ -1,0 +1,10 @@
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\bin\Debug\AwkardSituation.exe.config
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\bin\Debug\AwkardSituation.exe
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\bin\Debug\AwkardSituation.pdb
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.csprojAssemblyReference.cache
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.Form1.resources
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.Properties.Resources.resources
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.csproj.GenerateResource.cache
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.csproj.CoreCompileInputs.cache
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.exe
+C:\Users\Jerod\Desktop\Awkard Situation\AwkardSituation\AwkardSituation\obj\Debug\AwkardSituation.pdb
